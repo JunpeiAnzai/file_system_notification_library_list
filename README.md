@@ -4,12 +4,16 @@
 |          | Listen | Guard | ExGuard | Watchdog | fsnotify | notify | FSWatch | WatchService |
 |----------|--------|-------|---------|----------|----------|--------|---------|--------------|
 | Language | Ruby   | Ruby  | Elixir  | Python   | Go       | Go     | D       | Java         |
-| URL      | [*][^1] | [^2]  | [^3]    | [^4]     | [^5]     | [^6]   | [^7]    | [^8]         |
+| URL      | [^1]   | [^2]  | [^3]    | [^4]     | [^5]     | [^6]   | [^7]    | [^8]         |
+| Sub Dir  |        |       |         | y        | n        | y      | n       | n            |
+| Windows  |        |       |         | y        | y        | y      | y       | y            |
+| Linux    |        |       |         | y        | y        | y      | y       | y            |
+| OSX      |        |       |         | y        | y        | y      | n       | y            |
 |          |        |       |         |          |          |        |         |              |
 
 
 
-[^1]:(https://github.com/guard/listen)
+[^1]:https://github.com/guard/listen
 [^2]:https://github.com/guard/guard
 [^3]:https://github.com/slashmili/ex_guard
 [^4]:https://github.com/gorakhargosh/watchdog
