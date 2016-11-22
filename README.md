@@ -2,14 +2,13 @@
 ファイルシステム通知ライブラリの比較
 
 |          | Listen | Guard | ExGuard | Watchdog | fsnotify | notify | FSWatch | WatchService |
-|----------+--------+-------+---------+----------+----------+--------+---------+--------------|
+|----------|--------|-------|---------|----------|----------|--------|---------|--------------|
 | Language | Ruby   | Ruby  | Elixir  | Python   | Go       | Go     | D       | Java         |
 | URL      | [^1]   | [^2]  | [^3]    | [^4]     | [^5]     | [^6]   | [^7]    | [^8]         |
 | Sub Dir  | y      | y     | y       | y        | n        | y      | n       | n            |
 | Windows  | y      | y     | y       | y        | y        | y      | y       | y            |
 | Linux    | y      | y     | y       | y        | y        | y      | y       | y            |
 | OSX      | y      | y     | y       | y        | y        | y      | n       | y            |
-|          |        |       |         |          |          |        |         |              |
 
 
 
