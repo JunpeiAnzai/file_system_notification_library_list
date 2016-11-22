@@ -1,10 +1,10 @@
 # file_system_notification_library_list
 ファイルシステム通知ライブラリの比較
 
-|          | Listen [^1] | Guard[^2] | ExGuard[^3] | Watchdog[^4] | fsnotify[^5] | notify[^6] | FSWatch[^7] | WatchService[^8] |
-|----------|-------------|-----------|-------------|--------------|--------------|------------|-------------|------------------|
-| Language | Ruby        | Ruby      | Elixir      | Python       | Go           | Go         | D           | Java             |
-|          |             |           |             |              |              |            |             |                  |
+|          | Listen | Guard | ExGuard | Watchdog | fsnotify | notify | FSWatch | WatchService |
+|----------|--------|-------|---------|----------|----------|--------|---------|--------------|
+| Language | Ruby   | Ruby  | Elixir  | Python   | Go       | Go     | D       | Java         |
+|          |        |       |         |          |          |        |         |              |
 
 
 
